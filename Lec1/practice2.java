@@ -1,3 +1,4 @@
+package Lec1;
 import java.util.Scanner;
 
 public class practice2 {

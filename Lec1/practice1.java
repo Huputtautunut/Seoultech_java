@@ -1,3 +1,4 @@
+package Lec1;
 //import scanner to read user inputs
 import java.util.Scanner;
 
@@ -14,7 +15,7 @@ public class practice1 {
         return result;
     }
 
-//delairing main class
+//main class
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
