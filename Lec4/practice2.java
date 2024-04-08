@@ -3,7 +3,7 @@ import java.util.*;
 public class practice2 {
     public static void main(String[] args) {
         int[][] weeklyHours = {
-            {2, 4, 3, 4, 5, 8, 8},   // Employee 1
+            {2,4,3,4,5, 8, 8},   // Employee 1
             {7, 3, 4, 3, 3, 4, 4},   // Employee 2
             {3, 3, 4, 3, 3, 2, 2},   // Emp 3
             {9, 3, 4, 7, 3, 4, 1},    // Emp 4
